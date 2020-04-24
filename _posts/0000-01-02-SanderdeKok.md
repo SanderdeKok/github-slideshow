@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Badger badger badger badger MUSHROOM MUSHROOM
 Use the left arrow to go back!
